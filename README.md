@@ -1,6 +1,6 @@
 <br clear="both">
 
-<p align="left">Graduanda em Engenharia de Computação pela Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB), atualmente no 9° semestre. Tenho interesse e atuação nas áreas de Python e análise de dados. Integro um projeto de Iniciação Científica intitulado Implementação de Redes Neurais Convolucionais para Previsão de Casos de Dengue e participei de pesquisa voltada à classificação da amplitude do tremor de repouso em pacientes com Parkinson</p>
+<p align="left">Graduanda em Engenharia de Computação pela Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB), atualmente no 10° semestre. Tenho interesse e atuação nas áreas de Python e análise de dados. Integro um projeto de Iniciação Científica intitulado Implementação de Redes Neurais Convolucionais para Previsão de Casos de Dengue e participei de pesquisa voltada à classificação da amplitude do tremor de repouso em pacientes com Parkinson</p>
 
 ###
 
