@@ -15,4 +15,4 @@ Anteriormente, participei de projetos de pesquisa voltados à implementação de
   </a>
   </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivinalorena)](https://github.com/ivinalorena/github-readme-stats-academic)
+[![Ivina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivinalorena)](https://github.com/ivinalorena/github-readme-stats-academic)
