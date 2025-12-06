@@ -15,4 +15,3 @@ Anteriormente, participei de projetos de pesquisa voltados à implementação de
   </a>
   </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivinalorena)](https://github.com/EthanJamesLew/github-readme-stats-academic)
