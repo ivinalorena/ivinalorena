@@ -1,7 +1,10 @@
 <br clear="both">
 
-<p align="left">Graduanda em Engenharia de Computação pela Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB), atualmente no 10º semestre. Possuo interesse e experiência nas áreas de aprendizado de máquina e análise de dados. Integro o projeto de Iniciação Científica “Aplicação de Deep Learning no Diagnóstico da Doença Arterial Coronariana: Comparação entre Redes Neurais Recorrentes e LSTM para Análise de Sinais de ECG”.
-Anteriormente, participei de projetos de pesquisa voltados à implementação de Redes Neurais Convolucionais para previsão de casos de dengue, bem como de um estudo sobre classificação da amplitude do tremor de repouso em pacientes com Parkinson, utilizando Regressão Logística Regularizada.</p>
+<p align="left">Recém-formada em Engenharia de Computação, com experiência acadêmica e prática em análise de dados, machine learning e desenvolvimento de soluções computacionais.
+Durante a graduação, atuei como pesquisadora bolsista em projetos voltados à tomada de decisão médica, incluindo estudos para diagnóstico precoce de Parkinson e outras aplicações em saúde, trabalhando com modelagem preditiva e análise de dados clínicos.
+Como parte do meu Trabalho de Conclusão de Curso, desenvolvi a plataforma Parkin95, que resultou em um registro de computador, voltada ao apoio à decisão médica no diagnóstico precoce da Doença de Parkinson.
+Em experiência profissional, atuei com análise de grandes volumes de dados, incluindo dados geoespaciais, desenvolvendo dashboards interativos e soluções analíticas utilizando Python, SQL, PostgreSQL/PostGIS, Dash/Plotly e Docker.
+Atualmente, venho expandindo minhas competências em desenvolvimento web, utilizando Flask, além de HTML e CSS, com foco na construção de aplicações simples e funcionais integradas a dados.</p>
 
 ###
 
